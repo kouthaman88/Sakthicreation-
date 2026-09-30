@@ -1,0 +1,40 @@
+{
+  "business_name": "Sakthi Aari Embroidery & Painting",
+  "headline": "We design your dream. We stitch your style.",
+  "tagline": "Saree & Dress Designing • Customized Blouse • Aari Embroidery • Fabric Painting",
+  "about": "Sakthi Aari Embroidery & Painting offers saree and dress designing, customized blouse work, Aari embroidery and fabric painting with a focus on elegant finishing and personalized designs.",
+  "phone": "+91 12345 67890",
+  "whatsapp": "+91 12345 67890",
+  "email": "sakthiaariart@gmail.com",
+  "address": "No. 12, Vinayagar Kovil Street,\nKanchipuram - 631501.",
+  "instagram": "https://instagram.com/sakthi_aari_embroidery_painting",
+  "facebook": "",
+  "services": [
+    {
+      "icon": "👗",
+      "title": "Saree Designing",
+      "text": "Custom saree designs and detailed finishing."
+    },
+    {
+      "icon": "✨",
+      "title": "Dress Designing",
+      "text": "Personalized dress designs for your style."
+    },
+    {
+      "icon": "🧵",
+      "title": "Customized Blouse",
+      "text": "Custom blouse patterns, embroidery and detailing."
+    },
+    {
+      "icon": "🌸",
+      "title": "Aari Embroidery",
+      "text": "Handcrafted Aari embroidery for beautiful outfits."
+    },
+    {
+      "icon": "🎨",
+      "title": "Fabric Painting",
+      "text": "Creative fabric painting and decorative work."
+    }
+  ],
+  "gallery": []
+}

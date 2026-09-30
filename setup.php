@@ -1,0 +1,3 @@
+<?php
+if(file_exists(__DIR__.'/config.php')&&file_exists(__DIR__.'/../data/site.json')){header('Location:login.php');exit;}
+?><!doctype html><html><head><meta charset="utf-8"><title>Setup</title><link rel="stylesheet" href="admin.css"></head><body><main class="login"><section><h2>Setup</h2><p>Upload the full package to PHP hosting. The website is already configured.</p></section></main></body></html>
